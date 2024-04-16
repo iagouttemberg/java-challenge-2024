@@ -65,3 +65,6 @@ Post/Get - localhost/mensagem
 
 
 Get - localhost/mensagem/{id}
+
+
+[Challenge.postman_collection.json](https://github.com/iagouttemberg/java-challenge-2024/files/14986413/Challenge.postman_collection.json)
